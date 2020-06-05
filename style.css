@@ -1,0 +1,102 @@
+.navbar{
+	background-color:#73144d!important;
+	width:100%;
+	position:relative;
+	padding:10px;
+
+}
+
+.nav-link{
+	
+	color:white !important;
+	font-weight:bold;
+	margin-right:10px;
+}
+.dropdown-menu{
+	color:white;
+	background-color:#73144d;
+}
+.dropdown-item a:hover{
+	color:#070b7a !important ;	
+}
+.about{
+	padding-top:40px;
+	width:100%;
+	background-color:#ffffff;
+	text-align:center;
+}
+.about h1{
+	font-size:35px;
+}
+.about p{
+	margin-left:100px;
+	margin-right:100px;
+	font-family:Berlin Sans FB;
+	color:#070b7a;
+	text-align:justify;
+}
+.about img{
+	padding-top:0px;
+}
+.RP{
+	padding-top:40px;
+	width:100%;
+	height:80px;
+	background-color:#ffffff;
+	text-align:center;
+}
+.RP h1{
+	font-size:35px;
+}
+.RP img{
+	padding-top:0px;
+
+}
+.container{
+	margin-top:35px;
+}
+	
+.card{
+	width:250px;
+	height:auto;
+	margin:5px;
+	justify-content:space-around !important;
+	align-items:center !important;
+}
+.card-text{
+	font-weight:bold;
+}
+.btn-primary{
+	width:100%;
+	background-color:#73144d !important;
+}
+.footer {
+  background-color: #73144d;
+  padding: 10px;
+  text-align: center;
+}
+.fa-facebook-official,.fa-youtube-play,.fa-whatsapp,.fa-twitter,.fa-instagram{
+	font-size:32px !important;
+	padding:8px;
+}
+.fa-truck,.fa-hourglass,.fa-thumbs-up{
+	font-size:20px !important;
+	margin-right:10px;
+}
+.card1,.card2,.card3{
+	display:flex;
+	width:25%;
+	height:100px;
+	background-color:#73144d !important;
+	box-shadow:2px 4px 5px black;
+	justify-content:center;
+	align-items:center;
+}
+.maincard{
+	margin-top:30px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	margin-bottom:30px;
+	
+}
